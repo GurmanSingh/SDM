@@ -1,0 +1,18 @@
+.container{
+max-width: 960px;
+width: 96%
+margin: normal;
+}
+
+
+header{
+overflow: hidden;
+background-color: black;
+}
+
+h1{
+margin-left: 700px;
+color:white;
+font-family: Sans-serif;
+}
+
